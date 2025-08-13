@@ -54,8 +54,6 @@ flask run
 ```
 API: http://127.0.0.1:5000
 
-Docs: http://127.0.0.1:5000/apidocs
-
 ## API Endpoints
 
 ### Auth
