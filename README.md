@@ -16,16 +16,6 @@ It supports JWT-based authentication, user roles (admin & user), CRUD operations
 
 ---
 
-## Tech Stack
-- **Backend**: Flask, SQLAlchemy
-- **Auth**: flask-jwt-extended
-- **DB**: SQLite (default), configurable for Postgres/MySQL
-- **Serialization**: Marshmallow
-- **Docs**: Flasgger
-- **Testing**: pytest, pytest-cov
-
----
-
 ## Setup & Installation
 
 ### 1. Clone the Repository
